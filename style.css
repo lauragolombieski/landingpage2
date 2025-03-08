@@ -1,0 +1,124 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .initial {
+    background-color: #FBECDC;
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+
+  .image-rebeca {
+    height: 100%;
+    width: 40%;
+    border: none;
+    padding: 0px;
+  }
+
+  .name {
+    color:rgb(255, 255, 255);
+    margin-bottom: 50px;
+    font-size: 70px;
+  }
+
+  .dizeres {
+    color:#E86B54;
+    font-size: 50px;
+    margin-bottom: 5%;
+    width: 50%;
+    margin-left: 24%;
+  }
+
+  .apresentacao {
+    font-family:Impact, Sans-serif;
+    padding: 20px;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 8%;
+  }
+
+  .botao-falar {
+    margin-top: 2%;
+    font-size: 2em;
+    background-color: #FBECDC;
+    color: #E86B54;
+    border: 2px solid #E86B54;
+    width: 40%;
+    transition: background-color 0.3s;
+    padding: .75rem 1.25rem;
+    border-radius: 10rem;
+  }
+
+  .botao-falar:hover {
+    background-color: #efdecc;
+  }
+
+  body{
+    margin:0;
+    padding:0;
+  }
+
+  .mid {
+    margin-top: 2%;
+    height: 50%;
+    width: 100%;
+    font-family:Impact, Sans-serif;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .quemsou {
+    margin-bottom: 2%;
+    margin-left: 40%;
+    color:#E86B54;
+    font-size: 3em;
+    width: 40%;
+  }
+  
+  .container-escrita {
+    margin-left: 22%;
+    text-align: center;
+    background-color: #E86B54;
+    width: 50%;
+    padding: .75rem 1.25rem;
+    border-radius: 2rem;
+  }
+
+  .apresentar-escrita {
+    color: white;
+    font-size: 2em;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .trabalho {
+    display: flex;
+    margin-right: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #FBECDC;
+    padding: .75rem .75rem;
+  }
+
+  .repaginada {
+    padding: 30px;
+    width: 200px;
+    color: #E86B54;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .final {
+    margin-top: 30px;
+    color: #ffffff;
+    background-color: #E86B54;
+    padding: 80px;
+    text-align: center;
+  }
